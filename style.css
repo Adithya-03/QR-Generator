@@ -1,0 +1,47 @@
+
+/* .custom-bg-color{
+    background-color: #A3C9AA;
+} */
+ 
+.custom-bg-gradient {
+    background: linear-gradient(135deg, #A76F6F, #EEE7DA);
+}
+.card{
+    padding-bottom: 0.5rem;
+   
+    
+}
+
+
+
+.btn{
+  width: 100%;
+}
+
+.custom-btn-color {
+    background-color:  #c8acac  !important;
+    border-color:  #c8acac !important;
+}
+.custom-btn-color:hover { 
+    background-color: #b98989 !important;
+    border-color: #ae7c7c !important;
+}
+
+#qrcode{
+    width: 200px;
+    border-radius: 1px;
+    max-height: 0;
+    overflow: hidden;
+}   
+
+.qrcode {
+    text-align: center;
+}
+
+.qrcode img {
+    display: inline-block; /* Ensures the image is treated as a block element */
+    margin: 0 auto; /* Centers the image horizontally */
+}
+.heading{
+    text-align: center;
+}
